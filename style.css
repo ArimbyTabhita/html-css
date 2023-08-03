@@ -1,12 +1,30 @@
 body{
+    text-align: center;
     background-color: rgb(161, 199, 232);
+    padding-top: 20px;
+}
+div{
+    border:2px solid plum;
+    margin: 100px 50px 50px 100px;
+}
+nav {
+    border: 3px solid black
+}
+table {
+    margin-left: 400px;
 }
 img{
     width: 200px;
 }
 
 .batas {
-    margin-left: 200px;
+    margin-left: 10px;
+    
+}
+.batas ol {
+    text-align: left;
+    margin-left: 400px;
+   
 }
 .warna{
     background-color: #c2b992b2;
