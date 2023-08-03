@@ -1,3 +1,16 @@
 body{
-    background-color: rgb(1, 132, 246);
+    background-color: rgb(161, 199, 232);
+}
+img{
+    width: 200px;
+}
+
+.batas {
+    margin-left: 200px;
+}
+.warna{
+    background-color: #c2b992b2;
+}
+#bekgrond{
+    background-color: #d6cdcb93;
 }
