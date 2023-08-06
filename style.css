@@ -1,14 +1,18 @@
 .border{
     border: 1px solid;
-    padding: 10px;
 }
 img{
-    width: 150px;
+    width: 130px;
 }
 .card{
     width: 200px;
 }
 .hori{
+    padding: 10px;
     display: flex;
     justify-content: center;
+    gap: 10px;
+}
+.ratain{
+    text-align: center;
 }
