@@ -5,6 +5,10 @@
     width: 1000px;
     margin: auto;
 }
+.display{
+    display: inline-block;
+    padding: 10px;
+}
 .warnaa{
     background-image: linear-gradient(to right, rgb(144, 144, 255), rgb(222, 213, 255));
 }
