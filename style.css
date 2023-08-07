@@ -1,11 +1,18 @@
 .border{
     border: 1px solid;
 }
+.wadah{
+    width: 1000px;
+    margin: auto;
+}
+.warnaa{
+    background-image: linear-gradient(to right, rgb(167, 167, 255), white);
+}
 img{
     width: 130px;
 }
 .card{
-    width: 200px;
+    width: 30%;
 }
 .hori{
     padding: 10px;
