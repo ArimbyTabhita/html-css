@@ -6,13 +6,19 @@
     margin: auto;
 }
 .warnaa{
-    background-image: linear-gradient(to right, rgb(167, 167, 255), white);
+    background-image: linear-gradient(to right, rgb(144, 144, 255), rgb(222, 213, 255));
 }
 img{
     width: 130px;
 }
 .card{
     width: 30%;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+.card h6{
+    margin:10px;
 }
 .hori{
     padding: 10px;
@@ -21,5 +27,5 @@ img{
     gap: 10px;
 }
 .ratain{
-    text-align: center;
+    text-align: left;
 }
