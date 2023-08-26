@@ -5,6 +5,13 @@
     width: 1000px;
     margin: auto;
 }
+li:hover{
+    background-color: plum;
+}
+p::first-letter{
+    color: rgb(93, 93, 109);
+    font-size: larger;
+}
 .display{
     display: inline-block;
     padding: 10px;
