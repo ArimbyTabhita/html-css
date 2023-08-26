@@ -19,6 +19,18 @@ p::first-letter{
     display: inline-block;
     padding: 10px;
 }
+.display:hover{
+    animation-name: animasi;
+    animation-duration: 5s;
+
+}
+@keyframes animasi {
+    0%   {background-color:rgb(165, 244, 252); left:0px; top:0px;}
+    25%  {background-color:rgb(114, 171, 255); left:200px; top:0px;}
+    50%  {background-color:rgb(114, 114, 220); left:200px; top:200px;}
+    75%  {background-color:rgb(105, 169, 241); left:0px; top:200px;}
+    100% {background-color:rgb(131, 147, 249); left:0px; top:0px;}
+  }
 .warnaa{
     background-image: linear-gradient(to right, rgb(144, 144, 255), rgb(222, 213, 255));
 }
