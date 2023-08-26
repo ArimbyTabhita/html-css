@@ -8,6 +8,9 @@
 li:hover{
     background-color: plum;
 }
+.card:target{
+    background-color: rgb(253, 254, 255);
+}
 p::first-letter{
     color: rgb(93, 93, 109);
     font-size: larger;
